@@ -1,0 +1,19 @@
+.pk{
+	font-size: 100px;
+	text-align: center;
+	color: red;
+}
+h1{
+	color: firebrick;
+	text-align: center;
+	font-size: 100px;
+
+}
+img src{
+	height: 500px;
+	width: 500px;
+}
+a:hover{
+	font-size: 60px;
+	font-style: italic;
+}
